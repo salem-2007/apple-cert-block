@@ -1,0 +1,20 @@
+# Apple 证书屏蔽验证规则集
+# apple-cert-block
+# 作者: Salem https://x.com/zozo13769
+
+# 证书验证核心域名
+DOMAIN,oscp.apple.com
+DOMAIN,oscp2.apple.com
+DOMAIN,certs.apple.com
+DOMAIN,crl.apple.com
+DOMAIN,crl.entrust.net
+DOMAIN,crl3.digicert.com
+DOMAIN,crl4.digicert.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp.digicert.cn
+DOMAIN,ocsp.digicert.com
+DOMAIN,ocsp.entrust.net
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,ppq.apple.com
+DOMAIN,ppq-ext.v.aaplimg.com
