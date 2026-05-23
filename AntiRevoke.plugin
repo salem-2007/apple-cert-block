@@ -1,5 +1,5 @@
-#!name=AntiRevoke
-#!desc=Block Apple certificate OCSP/CRL verification requests
+#!name=Apple证书屏蔽验证
+#!desc=精准屏蔽 Apple p12证书验证，让已过期证书能够继续使用
 #!author=Salem
 #!homepage=https://github.com/salem-2007/apple-cert-block
 #!openUrl=https://github.com/salem-2007/apple-cert-block
