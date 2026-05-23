@@ -1,8 +1,10 @@
-# Apple 证书屏蔽验证规则集
-# apple-cert-block
-# 作者: Salem https://x.com/zozo13769
+#!name=Apple系统屏蔽证书验证
+#!desc=若要屏蔽选择reject
+#!author=Salem
+#!homepage=https://github.com/salem-2007/apple-cert-block
+#!x=https://x.com/zozo13769
+#############################################
 
-# 证书验证核心域名
 DOMAIN,oscp.apple.com
 DOMAIN,oscp2.apple.com
 DOMAIN,certs.apple.com
